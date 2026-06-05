@@ -1,0 +1,7 @@
+__pycache__/
+catboost_info/
+optuna_results/
+dataset/
+submission.csv
+*.pyc
+.ipynb_checkpoints/
